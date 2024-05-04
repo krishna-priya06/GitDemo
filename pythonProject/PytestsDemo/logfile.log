@@ -1,0 +1,64 @@
+2024-04-29 15:36:28,301 :CRITICAL : PytestsDemo.test_logging :Critical issue
+2024-04-29 15:36:57,499 :DEBUG : PytestsDemo.test_logging :A debug statement is executed
+2024-04-29 15:36:57,499 :INFO : PytestsDemo.test_logging :Information statement
+2024-04-29 15:36:57,499 :DEBUG : PytestsDemo.test_logging :A debug statement is executed
+2024-04-29 15:36:57,499 :WARNING : PytestsDemo.test_logging :Something is in warning mode
+2024-04-29 15:36:57,499 :ERROR : PytestsDemo.test_logging :A Major error has happend
+2024-04-29 15:36:57,499 :CRITICAL : PytestsDemo.test_logging :Critical issue
+2024-04-29 16:10:32,280 :DEBUG : PytestsDemo.test_logging :A debug statement is executed
+2024-04-29 16:10:32,280 :INFO : PytestsDemo.test_logging :Information statement
+2024-04-29 16:10:32,280 :DEBUG : PytestsDemo.test_logging :A debug statement is executed
+2024-04-29 16:10:32,280 :WARNING : PytestsDemo.test_logging :Something is in warning mode
+2024-04-29 16:10:32,280 :ERROR : PytestsDemo.test_logging :A Major error has happend
+2024-04-29 16:10:32,280 :CRITICAL : PytestsDemo.test_logging :Critical issue
+2024-04-29 16:20:11,161 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:20:11,162 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:20:11,162 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:20:11,163 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:20:11,163 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:20:11,163 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:25:43,107 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:25:43,108 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:25:43,108 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:25:43,109 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:25:43,109 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:25:43,109 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:11,004 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:35:11,005 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:11,005 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:11,005 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:11,005 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:11,005 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:12,459 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:35:12,460 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:12,460 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:12,460 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:12,460 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:12,460 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:16,179 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:35:16,179 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:16,179 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:16,180 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:16,180 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:16,180 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:22,109 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:35:22,110 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:22,110 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:35:22,110 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:22,110 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:35:22,110 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:38:07,425 :INFO : PytestsDemo.baseclass :apple
+2024-04-29 16:38:07,426 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:38:07,426 :INFO : PytestsDemo.baseclass :orange
+2024-04-29 16:38:07,426 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:38:07,426 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:38:07,426 :INFO : PytestsDemo.baseclass :banana
+2024-04-29 16:40:55,786 :INFO : test_1 :apple
+2024-04-29 16:40:55,788 :INFO : test_2 :orange
+2024-04-29 16:40:55,789 :INFO : test_3 :banana
+2024-04-29 16:41:42,524 :INFO : test_1 :apple
+2024-04-29 16:41:42,525 :INFO : test_2 :orange
+2024-04-29 16:41:42,526 :INFO : test_3 :banana
+2024-05-01 15:14:40,853 :INFO : test_1 :apple
+2024-05-01 15:14:40,855 :INFO : test_2 :orange
+2024-05-01 15:14:40,856 :INFO : test_3 :banana
